@@ -1,0 +1,9 @@
+﻿Build started 11-9-2014 4:56:19 PM.
+     1>Project "c:\cygwin_net\home\alex.song\json\jsoncpp\jsoncpp-src-0.5.0\makefiles\vs71\test_lib_json.vcxproj" on node 2 (clean target(s)).
+     1>_PrepareForClean:
+         Deleting file "../../build/vs71/debug/test_lib_json\test_lib_json.lastbuildstate".
+     1>Done Building Project "c:\cygwin_net\home\alex.song\json\jsoncpp\jsoncpp-src-0.5.0\makefiles\vs71\test_lib_json.vcxproj" (clean target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.37
